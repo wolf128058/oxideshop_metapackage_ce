@@ -14,7 +14,7 @@
     "oxid-esales/oxideshop-ce": "dev-master",
     "oxid-esales/paypal-module": "dev-master",
     "oxid-esales/oxideshop-demodata-ce": "dev-b-6.0",
-    "oxid-esales/oxideshop-composer-plugin": "^v1.0.0"
+    "oxid-esales/oxideshop-composer-plugin": "^v2.0.0"
   },
   "suggests": {
     "oxid-esales/paymorrow-module": "dev-master"
