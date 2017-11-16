@@ -16,6 +16,7 @@
     "payone-gmbh/oxid-6": "dev-master",
     "oxid-esales/oxideshop-demodata-ce": "dev-b-6.0",
     "oxid-esales/oxideshop-composer-plugin": "^v2.0.0",
-    "oxid-esales/paymorrow-module": "dev-master"
+    "oxid-esales/paymorrow-module": "dev-master",
+    "bestit/amazonpay4oxid": "dev-master"
   }
 }
